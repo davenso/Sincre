@@ -3,7 +3,7 @@ Sincre v1.0
 ============
 
 ---------------------
-Projects Organization:
+Projects Organization
 ----------------------
 FrameProcessor Core
 1.   FrameProcessor Static Library
@@ -18,7 +18,7 @@ Sincre Endpoints
 7.   Sincre WebFront
 
 -------------------
-Project Details:
+Project Details
 -------------------
 FrameProcessor core:
  - Core image/video processing engine
