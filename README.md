@@ -1,21 +1,7 @@
 ============
 Sincre v1.0
 ============
-
----------------------
-Projects Organization
-----------------------
-FrameProcessor Core
-1.   FrameProcessor Static Library
-2.   FrameProcessor Dynamic Library
-Sincre Libraries
-3.   Sincre Layer-A
-4.   Sincre Layer-B
-5.   Sincre Layer-AB WCF Service Library
-Sincre Web Services
-6.   Sincre Layer-AB Service
-Sincre Endpoints
-7.   Sincre WebFront
+Sincre is a decentralized, loosely-coupled, service-oriented architecture, with a hierarchical layer of inter-operable entities on a large-scale, distributed cloud infrastructure.
 
 -------------------
 Project Details
